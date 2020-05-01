@@ -1,0 +1,121 @@
+
+body{
+    background-image: url(https://static4.depositphotos.com/1000715/384/i/450/depositphotos_3842728-stock-photo-room-with-brick-wall.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size:cover;
+    color: maroon;
+    font-weight: Bolder;
+    
+    
+       
+}
+
+
+
+.container{
+   max-width: 500px;
+   margin: auto;
+   font-size: 20px;
+   max-height: 100%;
+   border: 5px white solid;
+   padding-left: 20px;
+   padding-right: 20px; 
+   background-color:whitesmoke;
+
+  
+}
+
+
+
+.container-6{
+    padding-top: 10px;  
+}
+
+
+
+
+.container-1 input{
+    display: block;
+    padding-right: 240px;
+    padding-bottom: 15px;
+    border-right: 100px;
+    border-radius: 5px;
+    font-size:20px ;
+    margin-bottom: 10px;
+   
+       
+}
+
+.container-2 input{
+    display: block;
+    padding-right: 284px;
+    padding-bottom: 12px;
+    border-right: 100px;
+    border-radius: 5px;
+    font-size: 20px;
+    margin-bottom: 10px;
+    
+    
+}
+
+.container-3 input{
+    display: block;
+    padding-right: 240px;
+    padding-bottom: 15px;
+    border-right: 100px;
+    border-radius: 5px;
+    font-size: 20px;
+    margin-bottom: 10px;
+   
+    
+
+}
+
+.container-4 input{
+    display: block;
+    padding-right: 240px;
+    padding-bottom: 15px;
+    border-right: 100px;
+    border-radius: 5px;
+    font-size: 20px;
+    margin-bottom: 10px;
+    
+    
+
+}
+
+.container-5 input{
+    display: block;
+    padding-right: 240px;
+    padding-bottom: 15px;
+    border-right: 100px;
+    border-radius: 5px;
+    font-size: 20px;
+    margin-bottom: 10px;
+    
+    
+
+}
+
+
+
+.container-6 input{
+    display: block;
+    padding-right: 175px;
+    padding-bottom: 15px;
+    border-right: 100px;
+    border-radius: 5px;
+    font-size: 20px;
+    margin-bottom: 20px;
+    padding-left: 175px;
+    /*margin-left:5px;*/
+    background-color: mediumaquamarine;
+    
+
+
+}
+
+.container-6 input:hover{
+    color: red;
+}
